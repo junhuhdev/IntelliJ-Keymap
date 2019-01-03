@@ -6,7 +6,7 @@ Reformat Code => Ctrl + Alt + D
 
 Delete line => Ctrl + D
 
-Comment line =>
+Comment line => Ctrl + 5
 
 
 ### Window
