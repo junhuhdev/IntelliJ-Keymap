@@ -11,7 +11,7 @@ Comment line => Ctrl + 5
 
 ### Window
 
-Close all document but this => ***Ctrl + E***
+Close all document but this => Ctrl + E
 
 Close window => 
 
