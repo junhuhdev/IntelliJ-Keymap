@@ -8,6 +8,10 @@ Delete line => Ctrl + D
 
 Comment line => Ctrl + 5
 
+Renaming variable
+* Ctrl + 4 (PC)
+* Cmd + 4 (MAC)
+
 
 ### Window
 
