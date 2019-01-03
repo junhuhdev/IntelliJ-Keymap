@@ -17,6 +17,12 @@ Close window =>
 
 Split vertical window =>
 
+### Project view
+
+Expand all files
+* Ctrl + 2
+* Cmd + 2 (MAC)
+
 
 ### Debugging
 
