@@ -1,5 +1,7 @@
 # IntelliJ-Keymap
 
+### Code
+
 Reformat Code => Ctrl + Alt + D
 
 Delete line => Ctrl + D
@@ -7,7 +9,7 @@ Delete line => Ctrl + D
 Comment line =>
 
 
-Window
+### Window
 
 Close all document but this =>
 
@@ -16,7 +18,7 @@ Close window =>
 Split vertical window =>
 
 
-Debugging
+### Debugging
 
 Delete all breakpoints => 
 
