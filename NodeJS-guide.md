@@ -4,3 +4,4 @@
 ### package.json configuration
 sad
 pelle
+s
