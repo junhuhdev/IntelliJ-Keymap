@@ -2,11 +2,14 @@
 
 ### Code
 
-Reformat Code => Ctrl + Alt + D
+Reformat Code
+* Ctrl + Alt + D
 
-Delete line => Ctrl + D
+Delete line
+* Ctrl + D
 
-Comment line => Ctrl + 5
+Comment line
+* Ctrl + 5
 
 Renaming variable
 * Ctrl + 4 (PC)
@@ -30,9 +33,9 @@ Expand all files
 
 ### Debugging
 
-Delete all breakpoints => 
+Delete all breakpoints
 
-Evaluate expression =>
+Evaluate expression
 
 # Visual studio code-Keymap
 
